@@ -1,8 +1,16 @@
 // rafce
 
+import TarjetaUsuario from "./components/TarjetaUsuario"
+
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <h1>Desafío nro. 14</h1>
+
+      <h2>Ejercicio A</h2>
+      <TarjetaUsuario />
+
+    </div>
   )
 }
 
