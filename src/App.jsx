@@ -8,7 +8,7 @@ const App = () => {
       <h1>Desafío nro. 14</h1>
 
       <h2>Ejercicio A</h2>
-      <TarjetaUsuario />
+      <TarjetaUsuario nombre="Mauricio Molina" edad="35 años" profesion="Full Stack Engineer" />
 
     </div>
   )
