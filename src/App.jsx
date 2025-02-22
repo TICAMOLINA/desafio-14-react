@@ -28,6 +28,8 @@ const App = () => {
 
       <hr />
 
+      <h2 className="text-[30px] mb-4">Ejercicio D</h2>
+      
       <Contador valorInicial={1} valorMaximo={5} />
       
     </div>
